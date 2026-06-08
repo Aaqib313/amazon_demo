@@ -1,9 +1,8 @@
 # Amazon Global Sales Intelligence Dashboard
 
 ## Live Interactive Project
+## 🌐 Live Demo
 
-👉 [Open Interactive Project Website](https://aaqib313.github.io/amazon_demo/)
-
-## Dashboard Preview
+[Open Interactive Dashboard Website](https://aaqib313.github.io/amazon_demo/)
 
 ![Dashboard](assets/dashboard.png)
